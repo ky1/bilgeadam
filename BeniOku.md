@@ -1,0 +1,4 @@
+bilgeadam
+=========
+
+bilgeadam yazılımcıları 
